@@ -50,7 +50,15 @@ ui <- fluidPage(
         a("Skip",
           id="skipbutton",
           class="btn btn-default",
-          type="button")
+          type="button"),
+        
+        br(),
+        br(),
+        
+        a("Privacy statement",
+          href="", #set the URL of your privacy statement
+          target="_blank" # so it opens in a new window
+          )
     
     )
 
