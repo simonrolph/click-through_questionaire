@@ -6,6 +6,9 @@ R shiny app to act as an interim page to ask users something before they go to t
 
 You are doing a study to see why people click on certain links and you want to get immediate feedback on why they clicked that link. This small shiny app is a template for setting up an interim page between the user clicking on the link and the user getting to their destination. 
 
+![image](https://user-images.githubusercontent.com/17750766/170453800-91b4da77-8b3d-49a6-b358-460cbfe45509.png)
+
+
 **Implementation:**
 
 This is currently set up for a specific case whereby users are always going to the same website, but different 'deep-link' urls with a standard query format (https://en.wikipedia.org/wiki/Query_string).
